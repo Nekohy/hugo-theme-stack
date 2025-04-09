@@ -57,6 +57,15 @@
     }
 }
 
+/* 给图片添加圆角 */
+.article-image img {
+    border-radius: 8px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
 // 代码块基础样式修改
 .highlight {
     max-width: 102% !important;
