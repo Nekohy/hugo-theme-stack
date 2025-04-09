@@ -88,11 +88,11 @@
   }
 
   // light模式下的代码块样式调整
-[data-scheme="light"] .article-content .highlight {
-  background-color: #09030e;
-}
-
-[data-scheme="light"] .chroma {
-  color: #ff6f00;
-  background-color: #09030ecc;
-}
+  [data-scheme="light"] .article-content .highlight {
+    background-color: #e3e1de;
+  }
+  
+  [data-scheme="light"] .chroma {
+    color: #840228;
+    background-color: #e3e1de;
+  }
