@@ -3,6 +3,7 @@
 # Hugo Theme Stack
 
 Mod:
+添加友链
 添加Telegram图标
 去除多余的i18n文件，注释底部信息（不建议但是确实不好看）
 
